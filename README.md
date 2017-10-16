@@ -2,4 +2,7 @@
 This is a repository for storage of my configuration files.
 
 # Update
-`chmod +x update.sh`
+```
+chmod +x update.sh
+./update.sh
+```
